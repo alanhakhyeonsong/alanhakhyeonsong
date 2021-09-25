@@ -7,8 +7,10 @@
 ![Docker](http://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Amazon AWS](http://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS)
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+<!--
 ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Vue.js](http://img.shields.io/badge/Vue.js-4FC88D?style=flat-square&logo=Vue.js&logoColor=white)
+-->
 
 ### solved.ac
 [![songs4805's Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=songs4805)](https://solved.ac/songs4805/)

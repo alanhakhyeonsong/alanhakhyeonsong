@@ -1,6 +1,7 @@
 ### Hi there 👋
 - I am a college student who is interested in backend development and majored in Computer Science.  
 - I'm trying to make clean code and unit test.  
+- And I focus on understanding object-oriented design and how the function works and the flow of the function, not just implementing the function.
 - I enjoy reading software technical books to broaden my horizons.
 
 ### My main focus of Skills:

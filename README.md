@@ -3,7 +3,7 @@
 - I'm trying to make clean code and unit test.  
 - I enjoy reading software technical books to broaden my horizons.
 
-### My main focus of Languages and Tools:
+### My main focus of Skills:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java)
 ![Spring Boot](http://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)

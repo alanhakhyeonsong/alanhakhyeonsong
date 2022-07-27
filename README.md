@@ -1,8 +1,11 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 - I am a college student who is interested in backend development and majored in Computer Science.  
 - I'm trying to make clean code and unit test.  
 - And I focus on understanding object-oriented design and how the function works and the flow of the function, not just implementing the function.
 - I enjoy reading software technical books to broaden my horizons.
+-->
+
+코더가 되지 않게 끊임없이 탐구하고 고민하고자 합니다.
 
 ### My main focus of Skills:
 
@@ -19,10 +22,10 @@
 ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Vue.js](http://img.shields.io/badge/Vue.js-4FC88D?style=flat-square&logo=Vue.js&logoColor=white)
 
-<!--
+
 ### solved.ac
 [![songs4805's Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=songs4805)](https://solved.ac/songs4805/)
--->
+
 
 <!--
 **alanhakhyeonsong/alanhakhyeonsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
 - I enjoy reading software technical books to broaden my horizons.
 -->
 
-코더가 되지 않게 끊임없이 탐구하고 고민하고자 합니다.
+**코더가 되지 않게 끊임없이 탐구하고 고민하고자 합니다.**
 
 ### My main focus of Skills:
 

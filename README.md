@@ -5,7 +5,10 @@
 - I enjoy reading software technical books to broaden my horizons.
 -->
 
-**코더가 되지 않게 끊임없이 탐구하고 고민하고자 합니다.**
+### Experiences
+- Silicon Valley Software Technology & Innovation Program(San Jose State Univ, July 18 2022 ~ August 12 2022)
+  - Outstanding Performance Award (Personal)
+  - Entrepreneurship Award - Grand Prize (Team)
 
 ### My main focus of Skills:
 

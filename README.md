@@ -30,6 +30,7 @@
 ### I've used more than once:
 ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Vue.js](http://img.shields.io/badge/Vue.js-4FC88D?style=flat-square&logo=Vue.js&logoColor=white)
+![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ### I'm currently learning:
 ![Kotlin](http://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)

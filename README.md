@@ -11,7 +11,7 @@
 기능 구현 위주의 개발이 아닌 학부 과정에서 쌓아온 탄탄한 CS 지식과 함께 핵심 원리를 이해하며 만드는 올바른 객체지향 설계와 효율적인 단위 테스트 작성에 관심이 많은 Backend Developer 입니다.
 
 ### Experiences:
-- NHN Academy 1st GwangJu (2022.08.29 ~ 2022.12.16)
+- NHN Academy 1st GwangJu (2022.08.29 ~)
 - Silicon Valley Software Technology & Innovation Program (San Jose State Univ, July 18 2022 ~ August 18 2022)
   - Outstanding Performance Award (Personal)
   - Entrepreneurship Award - Grand Prize (Team)

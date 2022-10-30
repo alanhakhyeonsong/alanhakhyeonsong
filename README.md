@@ -20,6 +20,7 @@
 ### My main focus of Skills:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](http://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Spring Security](https://img.shields.io/static/v1?style=flat-square&message=Spring+Security&color=6DB33F&logo=Spring+Security&logoColor=FFFFFF&label=)
 ![Spring Data JPA](http://img.shields.io/badge/SpringDataJPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)

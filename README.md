@@ -5,7 +5,7 @@
 - I enjoy reading software technical books to broaden my horizons.
 -->
 ### About me:
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white)](https://harmless-colossus-e1e.notion.site/b298b0dc13cd45959d81b5445feb3467)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white)]()
 <a href="https://velog.io/@songs4805"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@songs4805"/></a>
 
 기초 공사중🛠🚧
@@ -13,7 +13,7 @@
 
 ### Experiences:
 - NHN Academy 1st GwangJu (2022.08.29 ~)
-- Silicon Valley Software Technology & Innovation Program (San Jose State Univ, July 18 2022 ~ August 18 2022)
+- Silicon Valley Software Technology & Innovation Program (San Jose State Univ(California, USA), July 18 2022 ~ August 18 2022)
   - Outstanding Performance Award (Personal)
   - Entrepreneurship Award - Grand Prize (Team)
 

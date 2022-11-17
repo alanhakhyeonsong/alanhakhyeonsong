@@ -13,7 +13,7 @@
 
 ### Experiences:
 - NHN Academy 1st GwangJu (2022.08.29 ~)
-- Silicon Valley Software Technology & Innovation Program (San Jose State Univ(California, USA), July 18 2022 ~ August 18 2022)
+- Silicon Valley Software Technology & Innovation Program (San Jose State Univ, California, USA, July 18 2022 ~ August 18 2022)
   - Outstanding Performance Award (Personal)
   - Entrepreneurship Award - Grand Prize (Team)
 

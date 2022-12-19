@@ -1,9 +1,3 @@
-<!-- ### Hi there 👋
-- I am a college student who is interested in backend development and majored in Computer Science.  
-- I'm trying to make clean code and unit test.  
-- And I focus on understanding object-oriented design and how the function works and the flow of the function, not just implementing the function.
-- I enjoy reading software technical books to broaden my horizons.
--->
 ### About me:
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white)]()
 <a href="https://velog.io/@songs4805"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@songs4805"/></a>
@@ -35,27 +29,12 @@ Learn, Share and Grow
 ![Vue.js](http://img.shields.io/badge/Vue.js-4FC88D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-<!--
 ### I'm currently learning:
-![Kotlin](http://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
 ![Spring Cloud](http://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+
+<!--
+![Kotlin](http://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
 -->
 
 ### solved.ac
 [![songs4805's Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=songs4805)](https://solved.ac/songs4805/)
-
-
-<!--
-**alanhakhyeonsong/alanhakhyeonsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

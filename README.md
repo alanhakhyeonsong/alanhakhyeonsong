@@ -2,17 +2,15 @@
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white)]()
 <a href="https://velog.io/@songs4805"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@songs4805"/></a>
 
-기초 공사중🛠🚧
-
-Learn, Share and Grow
+Learn, Share and Grow together
 
 ### Experiences:
 - [NHN Academy 1st GwangJu (2022.08.29 ~ 2023.02.17)](https://github.com/nhnacademy-1st-gwangju)
-- Silicon Valley Software Technology & Innovation Program (San Jose State Univ, California, USA, July 18 2022 ~ August 18 2022)
+- Silicon Valley Software Technology & Innovation Program (San Jose State Univ, California, USA, 2022.07.18 ~ 2022.08.18)
   - Outstanding Performance Award (Personal)
   - Entrepreneurship Award - Grand Prize (Team)
 
-### My main focus of Skills:
+### Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)

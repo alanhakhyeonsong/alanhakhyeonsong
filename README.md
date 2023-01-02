@@ -29,6 +29,7 @@ Learn, Share and Grow together
 
 ### I'm currently learning:
 ![Spring Cloud](http://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Jenkins](http://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 
 <!--
 ![Kotlin](http://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)

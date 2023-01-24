@@ -5,7 +5,7 @@
 Learn, Share and Grow together
 
 ### Experiences:
-- [NHN Academy 1st GwangJu (2022.08.29 ~ 2023.02.17)](https://github.com/nhnacademy-1st-gwangju)
+- [NHN Academy 1st GwangJu (2022.08.29 ~ 2023.03.03)](https://github.com/nhnacademy-1st-gwangju)
 - Silicon Valley Software Technology & Innovation Program (San Jose State Univ, California, USA, 2022.07.18 ~ 2022.08.18)
   - Outstanding Performance Award (Personal)
   - Entrepreneurship Award - Grand Prize (Team)
@@ -30,6 +30,7 @@ Learn, Share and Grow together
 ### I'm currently learning:
 ![Spring Cloud](http://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Jenkins](http://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
 <!--
 ![Kotlin](http://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)

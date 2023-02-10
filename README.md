@@ -29,6 +29,7 @@ Learn, Share and Grow together
 
 ### I'm currently learning:
 ![Spring Cloud](http://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Batch](http://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Jenkins](http://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 

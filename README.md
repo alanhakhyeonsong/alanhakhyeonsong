@@ -14,13 +14,13 @@ Learn, Share and Grow together
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Boot](http://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![Spring Boot](http://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Spring Security](https://img.shields.io/static/v1?style=flat-square&message=Spring+Security&color=6DB33F&logo=Spring+Security&logoColor=FFFFFF&label=)
-![Spring Data JPA](http://img.shields.io/badge/SpringDataJPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![Spring Data JPA](http://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white)
 ![QueryDSL](http://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&logo=Hibernate&logoColor=white)
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Docker](http://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Amazon AWS](http://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS)
+![Amazon AWS](http://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS)
 
 ### I've used more than once:
 ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -28,8 +28,8 @@ Learn, Share and Grow together
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ### I'm currently learning:
-![Spring Cloud](http://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Spring Batch](http://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Cloud](http://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Batch](http://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Jenkins](http://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 

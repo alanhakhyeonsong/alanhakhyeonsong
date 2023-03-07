@@ -6,7 +6,7 @@ Learn, Share and Grow together
 
 ### Experiences:
 - [NHN Academy 1st GwangJu (2022.08.29 ~ 2023.03.03)](https://github.com/nhnacademy-1st-gwangju)
-- Silicon Valley Software Technology & Innovation Program (San Jose State Univ, California, USA, 2022.07.18 ~ 2022.08.18)
+- [Silicon Valley Software Technology & Innovation Program (San Jose State Univ, California, USA, 2022.07.18 ~ 2022.08.18)](https://github.com/unhas01/Re-Camping)
   - Outstanding Performance Award (Personal)
   - Entrepreneurship Award - Grand Prize (Team)
 

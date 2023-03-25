@@ -21,6 +21,8 @@ Learn, Share and Grow together
 ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Docker](http://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Amazon AWS](http://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=AmazonAWS)
+![Jenkins](http://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
 ### I've used more than once:
 ![JavaScript](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -30,8 +32,6 @@ Learn, Share and Grow together
 ### I'm currently learning:
 ![Spring Cloud](http://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Batch](http://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Jenkins](http://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
 <!--
 ![Kotlin](http://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)

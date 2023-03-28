@@ -32,10 +32,7 @@ Learn, Share and Grow together
 ### I'm currently learning:
 ![Spring Cloud](http://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Batch](http://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-
-<!--
 ![Kotlin](http://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
--->
 
 ### solved.ac
 [![songs4805's Solved.ac stats](http://mazassumnida.wtf/api/v2/generate_badge?boj=songs4805)](https://solved.ac/songs4805/)

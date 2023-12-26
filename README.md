@@ -15,3 +15,4 @@
 
 ### Highlights
 - https://www.nhn.com/pr/26041
+- https://github.com/alanhakhyeonsong/presentation/tree/main/2023/1226

@@ -5,5 +5,6 @@
 
 
 ### Highlights
-- https://www.nhn.com/pr/26041
+- https://inside.nhn.com/peoplenculture/238
 - https://github.com/alanhakhyeonsong/presentation/tree/main/2023/1226
+- https://www.nhn.com/pr/26041

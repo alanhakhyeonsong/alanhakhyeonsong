@@ -2,7 +2,7 @@
 println("Hello, world! Software Engineer 라모스입니다.");
 ```
 
-- Backend Developer에 가까운 SRE/DevOps 입니다.
+- Backend Developer에 가까운 SRE/DevOps Engineer 입니다.
 - Cloud Native에 관심이 많고, 장기적인 전문가가 되고자 합니다.
 - 현재 팀의 상황과 장기적인 목표에 맞춰 적절하게 기술을 도입하고 **문제 해결**에 초점을 두는 것을 원칙으로 생각합니다.
 - TF팀과 한 프로덕트에 대한 Backend Leader를 겸임하고 있습니다.

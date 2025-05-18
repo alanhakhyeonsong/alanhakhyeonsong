@@ -13,6 +13,7 @@ println("Hello, world! Software Engineer 라모스입니다.");
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white)](https://ramos-log.tistory.com/)
 
 ### Highlights
+- [백엔드 개발자를 위한 Spring Cloud Gateway와 Kubernetes Ingress Controller](https://ramos-log.tistory.com/17)
 - [Jenkins와 NHN Cloud Deploy를 연동하여 빌드/배포 관리를 편안하게 - NHN 전사에선 이렇게 관리합니다!](https://ramos-log.tistory.com/11)
 - [NHN Academy Welcoming Day 멘토링 특강](https://inside.nhn.com/peoplenculture/238)
 - [NHN Academy 광주캠퍼스 특강 | 주니어 개발자의 지속적으로 성장하기](https://github.com/alanhakhyeonsong/presentation/tree/main/2023/1226)

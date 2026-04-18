@@ -12,7 +12,7 @@ println("Hello, world! Software Engineer 라모스입니다.");
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white)](https://ramos-log.tistory.com/)
 
 ### Highlights
-- [코드밖의 최적화 - CI/CD 병목을 잡아본 이야기](https://github.com/alanhakhyeonsong/presentation/blob/main/2026/0403/%EC%BD%94%EB%93%9C%EB%B0%96%EC%9D%98%20%EC%B5%9C%EC%A0%81%ED%99%94%20-%20CI_CD%20%EB%B3%91%EB%AA%A9%EC%9D%84%20%EC%9E%A1%EC%95%84%EB%B3%B8%20%EC%9D%B4%EC%95%BC%EA%B8%B0.pptx)
+- [코드밖의 최적화 - CI/CD 병목을 잡아본 이야기 | NHN Injeinc 클라우드개발본부 4월 1주차 BiWeekly Technical Session 발표](https://github.com/alanhakhyeonsong/presentation/blob/main/2026/0403/%EC%BD%94%EB%93%9C%EB%B0%96%EC%9D%98%20%EC%B5%9C%EC%A0%81%ED%99%94%20-%20CI_CD%20%EB%B3%91%EB%AA%A9%EC%9D%84%20%EC%9E%A1%EC%95%84%EB%B3%B8%20%EC%9D%B4%EC%95%BC%EA%B8%B0.pptx)
 - [백엔드 개발자를 위한 Spring Cloud Gateway와 Kubernetes Ingress Controller](https://ramos-log.tistory.com/17)
 - [Jenkins와 NHN Cloud Deploy를 연동하여 빌드/배포 관리를 편안하게 - NHN 전사에선 이렇게 관리합니다!](https://ramos-log.tistory.com/11)
 - [NHN Academy Welcoming Day 멘토링 특강](https://inside.nhn.com/peoplenculture/238)
